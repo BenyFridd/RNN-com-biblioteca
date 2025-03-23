@@ -54,7 +54,7 @@ O RMSE de 0.03 indica um erro médio de 3 centavos nas previsões, um resultado 
 
 ### Gráfico Comparativo
 
-![Gráfico Real vs Previsto](grafico_real_vs_previsto.png)
+![Gráfico Real vs Previsto](rnn.png)
 
 O gráfico mostra os valores reais (azul) e previstos (vermelho), com uma linha cinza indicando o início do conjunto de teste. As previsões acompanham bem a tendência dos dados reais.
 
